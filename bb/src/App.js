@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Maked public new branch
+            Maked public new branch 123
           </a>
         </header>
       </div>
