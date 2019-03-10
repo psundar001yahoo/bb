@@ -17,13 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React JggggS 123
-adddata in yahooos again gmail
-yahoooooooooooooooooos
-after restrick in gmail
-222222s
-            Learn React JS 123 tt dfd ewwew
-            jnkk
+            Maked public
           </a>
         </header>
       </div>
